@@ -1,0 +1,26 @@
+/* Search.css */
+.search-results {
+    list-style-type: none;
+    padding: 0;
+}
+
+.search-result-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px; 
+}
+
+.search-result-content {
+    display: flex;
+    align-items: center;
+    margin-left: 10px; 
+}
+
+.search-result-title {
+    margin-right: 10px; 
+}
+
+.search-result-image {
+    width: 100px; 
+    height: auto; 
+}

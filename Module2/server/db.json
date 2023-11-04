@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "admin",
+      "password": "123",
+      "isAdmin": true,
+      "firstName": "Minh Hung",
+      "lastName": "Nguyen",
+      "email": "hung@gmail.com",
+      "avatar": "https://mdbcdn.b-cdn.net/img/new/avatars/2.webp",
+      "carts": []
+    },
+    {
+      "id": 2,
+      "userName": "thson",
+      "password": "123",
+      "isAdmin": false,
+      "firstName": "Hong Son",
+      "lastName": "Tran",
+      "email": "thson@gmail.com",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/final-project-react-60620.appspot.com/o/avatar.png?alt=media&token=34478a15-3766-46ff-af42-d810b3d27efa",
+      "carts": []
+    },
+    {
+      "userName": "pvduc",
+      "password": "123",
+      "isAdmin": false,
+      "firstName": "Van Duc",
+      "lastName": "Phan",
+      "email": "pvduc@gmail.com",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/final-project-react-66397.appspot.com/o/avatar.jpg?alt=media&token=5e3ae331-7ba1-460f-9119-8bed92233f7a",
+      "carts": [],
+      "id": 3
+    },
+    {
+      "userName": "pvduc",
+      "password": "123",
+      "isAdmin": false,
+      "firstName": "Van Duc",
+      "lastName": "Phan",
+      "email": "pvduc@gmail.com",
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/final-project-react-66397.appspot.com/o/avatar.jpg?alt=media&token=5e3ae331-7ba1-460f-9119-8bed92233f7a",
+      "carts": [],
+      "id": 5
+    },
+    {
+      "firstname": "minh",
+      "lastname": "to",
+      "email": "123@gmail.com",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "firstname": "asc",
+      "lastname": "abc",
+      "email": "1@gmail.com",
+      "password": "123123",
+      "id": 7
+    },
+    {
+      "firstname": "asc",
+      "lastname": "abc",
+      "email": "test1@gmail.com",
+      "password": "123456",
+      "cart": [],
+      "id": 8
+    },
+    {
+      "firstname": "duc",
+      "lastname": "phat",
+      "email": "test3@gmail.com",
+      "password": "123123",
+      "cart": [],
+      "id": 9
+    },
+    {
+      "firstname": "test",
+      "lastname": "case1",
+      "email": "test_case_1@gmail.com",
+      "password": "123123",
+      "cart": [],
+      "id": 10
+    }
+  ]
+}
